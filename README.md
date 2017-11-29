@@ -1,5 +1,6 @@
 # Hello-World
 Samad alias Nyein Chan
+
 I am currently trying to get a bachelor's degree of Pure Mathematics and Computer Science at Memorial University of Newfoundland.
 Since you are reading this, I assume you are one of the following:
 - A family member or a friend
