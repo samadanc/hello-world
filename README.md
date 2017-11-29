@@ -8,7 +8,9 @@ Since you are reading this, I assume you are one of the following:
 
 Dear Hiring Manager,
   Please look at the level of language in my projects, not the english in this md file.
+  
 Dear Enthusiast,
   I hope I can inspire you with my projects.
+  
 Dear family member or a friend,
   How are you doing? I hope I can make you jealous with the projects I have completed...
